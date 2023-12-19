@@ -1,0 +1,209 @@
+#header{
+    background-color: #BE1622;
+}
+#uclan_logo{
+    width: 200px;
+    height: 60px;
+}
+#heading{
+    color: white;
+    position: relative;
+    top:-30px;
+    margin-left:30px;
+}
+.header-list {
+    list-style-type:none;
+    padding: 10px;
+    display: flex;
+    position: absolute;
+    right: 5px;
+    top: 0
+}
+
+.header-list a {
+    text-decoration: none;
+    color: white;
+    text-align: right;
+    padding: 6px;
+    display: block;
+
+
+}
+#where{
+    color: #34516C;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+
+}
+#together{
+    color: gold;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+#join{
+    color: gold;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#video1{
+    width: 50%;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+}
+#video2{
+    width: 50%;
+    height: 380px;
+    display: block;
+    margin: 0 auto;
+}
+#Firstparagragraph{
+    text-align: center;
+}
+#Secondparagraph{
+    text-align: center;
+}
+footer {
+    background-color: #34516C;
+
+
+}
+
+footer li {
+    margin: 20px;
+    color: white;
+    display: inline-block;
+
+
+}
+
+footer li a  {
+    color: white;
+
+
+}
+.footerheadings{
+    color: white;
+    display: inline-block;
+    font-size: 30px;
+
+}
+/*#link{
+    color: white;
+    font-size: 30px;
+    margin: -5px;
+
+}
+/*#Contact {
+    color: white;
+    font-size: 30px;
+    margin-left: 650px;
+    margin-bottom: 50px;
+    margin-top: -30px ;
+}
+/*#Location {
+    color: white;
+    font-size: 30px;
+    text-align: right;
+    margin-top: -250px;
+}
+*/
+price{
+    font-size: 30px;
+    width:200px;
+    text-align:center;
+    color: #BE1622;
+    display: block;
+    text-decoration: underline;
+
+}
+
+description1{
+    font-size: 20px;
+    width:200px;
+    text-align:center;
+    color: gold;
+    display: block;
+    text-decoration: underline;
+
+
+
+}
+color{
+    font-size: 18px;
+    vertical-align: top;
+    width:200px;
+    text-align:center;
+    color: #34516C;
+    font-weight: bold;
+    display: block;
+    text-decoration: underline;
+
+
+
+}
+description2{
+    font-size: 18px;
+    width:200px;
+    text-align:center;
+
+
+}
+img{
+    width: 69%;
+    padding: 5px;
+    display: inline;
+    align-items: baseline;
+}
+
+
+ h1{
+     display: inline;
+     margin: 0px 18px;
+
+
+ }
+ h2{
+     display: inline;
+     color: red;
+
+ }
+div{
+    margin: 5px;
+    background-color: grey;
+    width: 0px;
+    list-style: none;
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-gap: 10px;
+
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 0px 3%;
+}
+
+nav{
+    display: inline-block;
+    width: 20%;
+}
+#cartload{
+    display: block;
+
+
+}
+.fixbody{
+    text-decoration: none;
+    padding: 2px;
+    color: black;
+}
+
+
+

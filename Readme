@@ -1,0 +1,43 @@
+Sofia Anastasiou
+sanastasiou1@uclan.ac.uk
+G: 21065267
+link: vesta.uclan.ac.uk/~sanastasiou1/Assignment/Anastasiou-Sofia_G21065267
+
+index page:
+header- Containing uclan logo,the name of the page(Student shop) Home which is the index page, products which is the
+page that you will find all the products, And cart where you will find the products that you added to your cart.
+Below the header you will find text and videos about uclan, and then the footer.
+The footer contains link,contact, location information
+
+product page:
+First is the header, below is the product, hoodie, jumper,tshirt category.Next to them is the Cart items where you
+can find how many items you added to the cart.
+Below you can find all the products, Each product has image, title,color, description, price, and buy button. At the end
+is the footer
+
+hoodie page:
+header
+all the hoodies
+footer
+
+jumper page:
+header
+all the jumpers
+footer
+
+tshirts:
+header
+all the tshirts
+footer
+
+cart page:
+header
+a list of products you added to your cart. It contains the image, title, original price, how many you added
+an the price of how many items you added
+footer.
+
+Uncompleted tasks:
+item.html where you click on a specific product and it opens in a separate page.
+Burger menu.
+
+
